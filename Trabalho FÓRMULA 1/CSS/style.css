@@ -1,0 +1,178 @@
+html{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #9494f3;
+}
+
+.corcabe{
+    position: relative;
+    height: 150px;
+    width: 1361px;
+    right: 20px;
+    background-color: #5a89c7;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 42px;
+    color: #ffffff;
+    text-align: center;
+    line-height: 150px;
+    bottom: 30px;
+}
+
+.divlogos{
+    position: absolute;
+    top: 2px;
+    width: 99%;
+    height: 50px;
+    top: 15px;
+}
+
+.lfia{
+    float: left;
+    max-width: 100px;
+    left: 5px;
+    bottom: 10px;
+}
+
+.lformula1{
+    float: right;
+    max-width: 120px;
+}
+
+.bandeiras1{
+    max-width: 20px;
+}
+
+.lequipes{
+    max-width: 100px;
+    max-height: 50px;
+    min-height: 50px;
+}
+
+.imgfinal{
+    max-width: 70px;
+}
+
+.pefinal{
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+.pilotosfinal{
+    background-color: #2909b8;
+    color: #ffffff;
+}
+
+.cabepf{
+    background-color: #2909b8;
+    color: #ffffff;
+    align-items: center;
+    font-size: 25px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+.cinza{
+    background-color: #ececec;
+}
+
+.tabelasistema1{
+    align-items: center;
+    text-align: center;
+}
+
+.cabeequipes{
+    background-color: #2909b8;
+    color: white;
+}
+
+.cabepilotos{
+    background-color: #2909b8;
+    color: white;
+}
+
+.cabesistemadepontos{
+    background-color: #2909b8;
+    color: white;
+}
+
+.tabela1{
+    position: relative;
+    margin-left: 250px;
+    top: 50px;
+}
+
+.tabela2{
+    position: relative;
+    margin-left: 600px;
+    bottom: 453px;
+}
+
+.tabela3{
+    position: relative;
+    margin-left: 263px;
+    bottom: 426px;
+}
+
+.tabela4{
+    position: relative;
+    margin-left: 540px;
+    bottom: 710px;
+}
+
+.tabela5{
+    position: relative;
+    margin-left: 823px;
+    bottom: 994px;
+}
+
+.tabela6{
+    position: relative;
+    margin-right: 500px;
+    bottom: 950px;
+}
+
+.tabela7{
+    position: relative;
+    margin-left: 500px;
+    bottom: 1392px;
+}
+
+.tabela8{
+    position: relative;
+    bottom: 1335px;
+}
+
+.tabela9{
+    position: relative;
+    bottom: 1292px;
+}
+
+.tabela10{
+    position: relative;
+    bottom: 1243px;
+}
+
+table{
+    border-color:  #2f3236;
+    border-width: 1px;
+}
+
+tr:hover{
+    background-color: #856fff;
+}
+
+#sele:hover{
+    background-color: #856fff;
+}
+
+.branca{
+    background-color: #f7f5f5;
+}
+
+
+
+
+
+
+
